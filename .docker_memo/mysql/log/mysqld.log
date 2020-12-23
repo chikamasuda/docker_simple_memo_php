@@ -131,3 +131,8 @@ Version: '5.7.32'  socket: '/var/run/mysqld/mysqld.sock'  port: 0  MySQL Communi
 2020-12-19T14:12:37.377318Z 0 [Note] Event Scheduler: Loaded 0 events
 2020-12-19T14:12:37.395929Z 0 [Note] mysqld: ready for connections.
 Version: '5.7.32'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2020-12-22T16:15:25.779644Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 52395ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-22T16:15:46.136018Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 8392ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-22T18:16:02.036831Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 5561ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-22T18:16:19.686467Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 5616ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-22T22:16:38.686354Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 5613ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
