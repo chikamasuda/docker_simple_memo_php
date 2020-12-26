@@ -136,3 +136,6 @@ Version: '5.7.32'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Comm
 2020-12-22T18:16:02.036831Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 5561ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
 2020-12-22T18:16:19.686467Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 5616ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
 2020-12-22T22:16:38.686354Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 5613ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-25T15:12:13.062190Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 31225ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-25T18:15:49.563017Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 7827ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2020-12-25T20:16:04.735541Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 5361ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
